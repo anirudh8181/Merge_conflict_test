@@ -1,1 +1,1 @@
-# Merge_conflict_test
+# Merge_conflict_test for developer B (test)
